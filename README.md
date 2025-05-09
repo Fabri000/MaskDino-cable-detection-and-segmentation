@@ -28,5 +28,5 @@ L'addestramento del modello è stato effettuato usando circa 8500 iterazioni sud
 |**Object Detection**| 0.7 |
 |**Segmentation**| 0.626 |
 
-Esempi di inferenza
+Esempio di inferenza in cui si osserva la capacità del modello su entrambi i task
 ![image](https://github.com/user-attachments/assets/1162b4e7-600f-422a-a7a2-2eb579a60b86)
